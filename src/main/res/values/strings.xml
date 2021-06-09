@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AK Gamers</string>
+    <string name="btnA1">O</string>
+    <string name="rules">RULES</string>
+    <string name="objective">OBJECTIVE</string>
+    <string name="rulesTxt">You can only click each opening once. Player O starts the first game.</string>
+    <string name="objectTxt">Get your pieces to have three in a row (diagonal, up to down, or left to right). </string>
+    <string name="tic_tac_toe">TIC-TAC-TOE</string>
+
+    <string name="_1_player">1 Player</string>
+    <string name="player_x">PLAYER X</string>
+    <string name="player_o">PLAYER O</string>
+    <string name="ties">TIES</string>
+    <string name="_2_player">2 Player</string>
+    <string name="reset">RESET</string>
+    <string name="menu">Menu</string>
+</resources>
